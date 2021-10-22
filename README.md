@@ -1,0 +1,2 @@
+# RTL8720DN-BW16
+Resources for RTL8720DN BW16
