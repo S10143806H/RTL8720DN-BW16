@@ -1,4 +1,6 @@
-# RTL8720DN-BW16
+# RTL8720DN-BW16 Frtizing
+
+Updated pinmap for RTL8720DN BW16 v02 Kit
 
 Updated pinmap for RTL8720DN BW16 RTLdruino
 

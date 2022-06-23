@@ -6,7 +6,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="1.1 (c68e22c387, 2021-05-23)"
-   sodipodi:docname="Rtlduino.svg"
+   sodipodi:docname="Rtlduino pinmap.svg"
    inkscape:export-filename="C:\Users\zhuqi\Desktop\Rtlduino pinmap arduino.png"
    inkscape:export-xdpi="524.21271"
    inkscape:export-ydpi="524.21271"
@@ -131,11 +131,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.2510298"
-     inkscape:cx="11.227212"
-     inkscape:cy="104.73605"
+     inkscape:zoom="2.2988251"
+     inkscape:cx="5.4375603"
+     inkscape:cy="125.06389"
      inkscape:document-units="mm"
-     inkscape:current-layer="g41827-3"
+     inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
      showgrid="true"
      objecttolerance="19.3"
@@ -144,8 +144,8 @@
      inkscape:snap-to-guides="true"
      inkscape:snap-object-midpoints="true"
      inkscape:snap-others="true"
-     inkscape:window-width="1920"
-     inkscape:window-height="1027"
+     inkscape:window-width="1600"
+     inkscape:window-height="837"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -154,15 +154,15 @@
      fit-margin-left="3"
      fit-margin-right="3"
      fit-margin-bottom="3"
-     showguides="true">
+     showguides="false">
     <inkscape:grid
        type="xygrid"
        id="grid1269"
        units="mm"
        spacingx="2.54"
        spacingy="2.54"
-       originx="-94.282794"
-       originy="-63.124346" />
+       originx="-94.282786"
+       originy="-63.124349" />
   </sodipodi:namedview>
   <metadata
      id="metadata5">
@@ -1634,7 +1634,7 @@
            id="tspan5052-7-4-1-4"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.05833px;font-family:'OCR A Extended';-inkscape-font-specification:'OCR A Extended';fill:#ffffff;stroke-width:0.264583"
            x="143.80237"
-           y="93.260506">6</tspan></text>
+           y="93.260506">4</tspan></text>
       <text
          xml:space="preserve"
          style="font-size:1.05833px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
@@ -1646,7 +1646,7 @@
            id="tspan5052-7-4-1-4-6"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.05833px;font-family:'OCR A Extended';-inkscape-font-specification:'OCR A Extended';fill:#ffffff;stroke-width:0.264583"
            x="143.79463"
-           y="95.738647">7</tspan></text>
+           y="95.738647">3</tspan></text>
       <text
          xml:space="preserve"
          style="font-size:1.05833px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
@@ -1670,7 +1670,7 @@
            id="tspan5052-3-2-8"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.10326px;font-family:'OCR A Extended';-inkscape-font-specification:'OCR A Extended';fill:#ffffff;stroke-width:0.525816"
            x="219.80374"
-           y="70.601395">0</tspan></text>
+           y="70.601395">2</tspan></text>
       <text
          xml:space="preserve"
          style="font-size:2.10326px;line-height:1.25;font-family:sans-serif;stroke-width:0.525816"
@@ -1682,7 +1682,7 @@
            id="tspan5052-3-2-4"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.10326px;font-family:'OCR A Extended';-inkscape-font-specification:'OCR A Extended';fill:#ffffff;stroke-width:0.525816"
            x="219.78114"
-           y="75.649216">5</tspan></text>
+           y="75.649216">1</tspan></text>
       <text
          xml:space="preserve"
          style="font-size:2.10326px;line-height:1.25;font-family:sans-serif;stroke-width:0.525816"
@@ -1694,19 +1694,19 @@
            id="tspan5052-3-2-2"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.10326px;font-family:'OCR A Extended';-inkscape-font-specification:'OCR A Extended';fill:#ffffff;stroke-width:0.525816"
            x="219.84586"
-           y="80.697052">4</tspan></text>
+           y="80.697052">0</tspan></text>
       <text
          xml:space="preserve"
-         style="font-size:2.10326px;line-height:1.25;font-family:sans-serif;stroke-width:0.525816"
-         x="217.26756"
-         y="85.663322"
+         style="font-size:1.05833px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+         x="143.12479"
+         y="108.49964"
          id="text5054-6-4-6"
-         transform="scale(0.95985021,1.0418292)"><tspan
+         transform="matrix(1.9075457,0,0,2.0704656,-63.269602,-135.31397)"><tspan
            sodipodi:role="line"
            id="tspan5052-3-2-1"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.10326px;font-family:'OCR A Extended';-inkscape-font-specification:'OCR A Extended';fill:#ffffff;stroke-width:0.525816"
-           x="217.26756"
-           y="85.663322">GND</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.05833px;font-family:'OCR A Extended';-inkscape-font-specification:'OCR A Extended';fill:#ffffff;stroke-width:0.264583"
+           x="143.12479"
+           y="108.49964">NC</tspan></text>
       <text
          xml:space="preserve"
          style="font-size:2.10326px;line-height:1.25;font-family:sans-serif;stroke-width:0.525816"
@@ -1748,7 +1748,7 @@
            id="tspan5052-36"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.10326px;font-family:'OCR A Extended';-inkscape-font-specification:'OCR A Extended';fill:#ffffff;stroke-width:0.525816"
            x="217.98923"
-           y="20.164988">9</tspan></text>
+           y="20.164988">12</tspan></text>
       <text
          xml:space="preserve"
          style="font-size:2.10326px;line-height:1.25;font-family:sans-serif;stroke-width:0.525816"
@@ -1760,7 +1760,7 @@
            id="tspan5052-3-0"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.10326px;font-family:'OCR A Extended';-inkscape-font-specification:'OCR A Extended';fill:#ffffff;stroke-width:0.525816"
            x="217.9995"
-           y="25.193487">2</tspan></text>
+           y="25.193487">11</tspan></text>
       <text
          xml:space="preserve"
          style="font-size:2.10326px;line-height:1.25;font-family:sans-serif;stroke-width:0.525816"
@@ -1784,7 +1784,7 @@
            id="tspan5052-3-9-8"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.10326px;font-family:'OCR A Extended';-inkscape-font-specification:'OCR A Extended';fill:#ffffff;stroke-width:0.525816"
            x="217.99744"
-           y="35.226505">8</tspan></text>
+           y="35.226505">10</tspan></text>
       <text
          xml:space="preserve"
          style="font-size:2.10326px;line-height:1.25;font-family:sans-serif;stroke-width:0.525816"
@@ -1796,7 +1796,7 @@
            id="tspan5052-7-3"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.10326px;font-family:'OCR A Extended';-inkscape-font-specification:'OCR A Extended';fill:#ffffff;stroke-width:0.525816"
            x="217.98923"
-           y="40.28104">1</tspan></text>
+           y="40.28104">9</tspan></text>
       <text
          xml:space="preserve"
          style="font-size:2.10326px;line-height:1.25;font-family:sans-serif;stroke-width:0.525816"
@@ -1808,7 +1808,7 @@
            id="tspan5052-7-4-0"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.10326px;font-family:'OCR A Extended';-inkscape-font-specification:'OCR A Extended';fill:#ffffff;stroke-width:0.525816"
            x="217.99744"
-           y="45.322182">11</tspan></text>
+           y="45.322182">8</tspan></text>
       <text
          xml:space="preserve"
          style="font-size:2.10326px;line-height:1.25;font-family:sans-serif;stroke-width:0.525816"
@@ -1820,7 +1820,7 @@
            id="tspan5052-7-4-1-9"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.10326px;font-family:'OCR A Extended';-inkscape-font-specification:'OCR A Extended';fill:#ffffff;stroke-width:0.525816"
            x="217.99744"
-           y="50.478363">10</tspan></text>
+           y="50.478363">7</tspan></text>
       <text
          xml:space="preserve"
          style="font-size:2.10326px;line-height:1.25;font-family:sans-serif;stroke-width:0.525816"
@@ -1834,7 +1834,7 @@
            id="tspan5052-7-4-1-4-5"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.10326px;font-family:'OCR A Extended';-inkscape-font-specification:'OCR A Extended';fill:#ffffff;stroke-width:0.525816"
            x="217.99744"
-           y="55.458897">3</tspan></text>
+           y="55.458897">6</tspan></text>
       <text
          xml:space="preserve"
          style="font-size:2.10326px;line-height:1.25;font-family:sans-serif;stroke-width:0.525816"
@@ -1846,7 +1846,7 @@
            id="tspan5052-7-4-1-4-6-8"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.10326px;font-family:'OCR A Extended';-inkscape-font-specification:'OCR A Extended';fill:#ffffff;stroke-width:0.525816"
            x="217.99744"
-           y="60.383801">12</tspan></text>
+           y="60.383801">5</tspan></text>
       <text
          xml:space="preserve"
          style="font-size:2.10326px;line-height:1.25;font-family:sans-serif;stroke-width:0.525816"
@@ -1899,14 +1899,14 @@
          xml:space="preserve"
          style="font-size:2.10326px;line-height:1.25;font-family:sans-serif;stroke-width:0.525816"
          x="217.99333"
-         y="85.502518"
+         y="85.744194"
          id="text5054-6-4-6-3"
-         transform="scale(0.95985022,1.0418292)"><tspan
+         transform="scale(0.95985021,1.0418292)"><tspan
            sodipodi:role="line"
            id="tspan5052-3-2-1-6"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.10326px;font-family:'OCR A Extended';-inkscape-font-specification:'OCR A Extended';fill:#ffffff;stroke-width:0.525816"
            x="217.99333"
-           y="85.502518">GND</tspan></text>
+           y="85.744194">GND</tspan></text>
       <text
          xml:space="preserve"
          style="font-size:2.10326px;line-height:1.25;font-family:sans-serif;stroke-width:0.525816"
